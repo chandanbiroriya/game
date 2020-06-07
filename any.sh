@@ -1,1 +1,1 @@
-cal >> /tmp/chandu
+date >> /tmp/chandu
