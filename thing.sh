@@ -1,1 +1,1 @@
-cal >> /tmp/cha
+date >> /tmp/cha
